@@ -1,7 +1,0 @@
-{
-  "name": "staking-pools-bepolia",
-  "buildCommand": "cp public/config.deploy.bepolia.json public/config.json && npm run build",
-  "outputDirectory": "dist",
-  "framework": "vite",
-  "installCommand": "npm install"
-}

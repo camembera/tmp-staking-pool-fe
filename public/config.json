@@ -1,7 +1,8 @@
 {
+  "_comment": "Discovery: Mainnet. Only chainId required; name/rpcUrl/explorerUrl and contracts derived.",
   "mode": "discovery",
   "nosyMode": true,
-  "network": { "chainId": 80094, "rpcUrl": "https://rpc.berachain.com" },
-  "branding": { "name": "Staking Pools — Berachain", "logo": "/branding/logo-placeholder.png", "theme": "teal" },
+  "network": { "chainId": 80094 },
+  "branding": { "name": "Staking Pools — Mainnet", "logo": "/branding/logo-fake.svg", "theme": "coral" },
   "pools": {}
 }
