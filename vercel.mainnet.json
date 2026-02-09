@@ -1,0 +1,7 @@
+{
+  "name": "staking-pools-rhino-mainnet",
+  "buildCommand": "cp public/config.deploy.rhino-mainnet.json public/config.json && npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "installCommand": "npm install"
+}

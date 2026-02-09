@@ -1,0 +1,7 @@
+{
+  "mode": "discovery",
+  "nosyMode": true,
+  "network": { "chainId": 80094, "rpcUrl": "https://rpc.berachain.com" },
+  "branding": { "name": "Staking Pools — Berachain", "logo": "/branding/logo-placeholder.png", "theme": "teal" },
+  "pools": {}
+}
