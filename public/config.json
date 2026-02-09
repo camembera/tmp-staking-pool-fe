@@ -3,6 +3,6 @@
   "mode": "discovery",
   "nosyMode": true,
   "network": { "chainId": 80094 },
-  "branding": { "name": "Staking Pools — Mainnet", "logo": "/branding/logo-fake.svg", "theme": "coral" },
+  "branding": { "name": "Staking Pools — Mainnet", "logo": "/branding/logo-monogram.png", "theme": "coral" },
   "pools": {}
 }
