@@ -3,6 +3,6 @@
   "mode": "discovery",
   "nosyMode": true,
   "network": { "chainId": 80069 },
-  "branding": { "name": "Staking Pools — Bepolia", "logo": "/branding/logo-monogram.svg", "theme": "teal" },
+  "branding": { "name": "Staking Pools — Bepolia", "logo": "/branding/logo-monogram.png", "theme": "teal" },
   "pools": {}
 }
